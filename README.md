@@ -5,8 +5,10 @@ The objective of this project is to analyze Adidas U.S. sales data to identify k
 ## Dataset used
 - <a href="https://github.com/Dashboards-21/Adidas-Sales-Analysis/blob/main/Adidas%20US%20Sales%20Datasets.csv>">Dataset</a>
 ## Questions(KPIs)
-•	What is the overall sales trend of Adidas over time?
-•	Which product categories and regions generate the highest revenue and profit?
-•	Which products have the highest demand based on units sold?
-•	What is the average selling price and how effective is the pricing strategy?
-•	How does the profit margin vary across categories and channels?
+-	What is the overall sales trend of Adidas over time?
+-	Which product categories and regions generate the highest revenue and profit?
+-	Which products have the highest demand based on units sold?
+-	What is the average selling price and how effective is the pricing strategy?
+-	How does the profit margin vary across categories and channels?
+
+- Dashboard Interaction <a href="https://github.com/Dashboards-21/Adidas-Sales-Analysis/commit/36d28ad607622da136225a4b65ef632b5ea92827"> View Dashboard</a>
