@@ -14,4 +14,26 @@ The objective of this project is to analyze Adidas U.S. sales data to identify k
 - Dashboard Interaction <a href="https://github.com/Dashboards-21/Adidas-Sales-Analysis/commit/36d28ad607622da136225a4b65ef632b5ea92827"> View Dashboard</a>
 
 ## Process
-This project began by importing and exploring the Adidas U.S. Sales dataset to understand key fields and structure. The data was cleaned by handling duplicates, missing values, and standardizing formats. After preparation, exploratory analysis was performed to identify sales trends, category performance, and regional insights. An interactive dashboard was then created to visualize key metrics such as revenue, profit, and discount impact. Finally, insights were drawn from the dashboard to highlight sales patterns, best sellers, and business opportunities.
+-	Imported and explored the Adidas U.S. Sales dataset to understand its structure and key fields.
+-	Cleaned the data by handling missing values, duplicates, and standardizing formats.
+-	Performed exploratory data analysis (EDA) to identify sales trends and category performance.
+-	Analyzed regional insights to understand geographic variations in sales.
+-	Created an interactive dashboard to visualize revenue, profit, and discount impact.
+-	Derived insights to highlight best-selling products, sales patterns, and business opportunities.
+
+ ## Dashboard
+  ![Adidas Sales Analysis Screenshot](https://github.com/user-attachments/assets/10f5f959-03b5-42b6-a929-6e5874ab5cc4)
+
+ ## Project Insights
+- Sales showed consistent growth over time.
+-	Footwear was the top revenue-generating category.
+-	Central and West regions performed best, with key retailers driving overall profit.
+-	Online and in-store channels contributed strongly compared to wholesale.
+-	Discounts boosted sales volume but reduced profit margins.
+## Final Conclusion
+The Adidas Sales Analysis project provided valuable insights into sales performance, product categories, regional trends, and channel contributions. Footwear emerged as the top-selling category, and Central and West regions led in revenue. The analysis highlighted the impact of discounts on sales and profit, helping identify key business opportunities. Overall, the project demonstrates how data-driven decisions can optimize sales, pricing, and inventory strategies for better business outcomes.
+  
+
+
+
+
