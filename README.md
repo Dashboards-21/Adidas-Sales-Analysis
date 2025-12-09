@@ -12,3 +12,6 @@ The objective of this project is to analyze Adidas U.S. sales data to identify k
 -	How does the profit margin vary across categories and channels?
 
 - Dashboard Interaction <a href="https://github.com/Dashboards-21/Adidas-Sales-Analysis/commit/36d28ad607622da136225a4b65ef632b5ea92827"> View Dashboard</a>
+
+## Process
+This project began by importing and exploring the Adidas U.S. Sales dataset to understand key fields and structure. The data was cleaned by handling duplicates, missing values, and standardizing formats. After preparation, exploratory analysis was performed to identify sales trends, category performance, and regional insights. An interactive dashboard was then created to visualize key metrics such as revenue, profit, and discount impact. Finally, insights were drawn from the dashboard to highlight sales patterns, best sellers, and business opportunities.
