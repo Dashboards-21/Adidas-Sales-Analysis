@@ -13,14 +13,14 @@ The objective of this project is to analyze Adidas U.S. sales data to identify k
 ## Charts Requirements
 
 - ### Total Sales by Month(Area Chart):
-        - Visualize the monthly distribution of total sales to identify peak periods.
-- Total Sales by State(Filled Map):
+         Visualize the monthly distribution of total sales to identify peak periods.
+- ### Total Sales by State(Filled Map):
          Geographically represent total sales across different states using filled map.
-- Total Sales by Region(Donut Chart):
+- ### Total Sales by Region(Donut Chart):
          Use a donut chart to represent the contribution of different regions to total sales.
-- Total Sales by Product(Bar Chart):
+- ### Total Sales by Product(Bar Chart):
          Analyze the sales distribution among various Adidas product using bar chart.
-- Total Sales by Retailer(Bar Chart):
+- ### Total Sales by Retailer(Bar Chart):
          Visualize contribution of different retailers to total sales using bar chart.
 
 
