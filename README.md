@@ -12,8 +12,8 @@ The objective of this project is to analyze Adidas U.S. sales data to identify k
 -	How does the profit margin vary across categories and channels?
 ##	Charts Requirements
 
-Total Sales by Month(Area Chart):
-        Visualize the monthly distribution of total sales to identify peak periods.
+-Total Sales by Month(Area Chart):
+        -Visualize the monthly distribution of total sales to identify peak periods.
 Total Sales by State(Filled Map):
          Geographically represent total sales across different states using filled map.
 Total Sales by Region(Donut Chart):
